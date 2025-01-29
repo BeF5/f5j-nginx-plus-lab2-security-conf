@@ -70,15 +70,7 @@
                 "checkMaxValueLength": true,
                 "checkMinValueLength": true,
                 "maximumLength": 5,
-                "minimumLength": 0,
-                "urls": [
-                     {
-                        "method": "*",
-                        "name": "/profile",
-                        "type": "explicit",
-                        "wildcardOrder": 1
-                     }
-                ]
+                "minimumLength": 0
             }
         ],
         "response-pages": [
